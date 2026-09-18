@@ -1,6 +1,14 @@
-﻿# AegisPay AI - Autonomous National Payment Infrastructure Control Center
+# AegisPay AI - Autonomous National Payment Infrastructure Control Center
 
 A high-performance, scroll-driven 3D AI control center for mission-critical payment infrastructure (UPI, IMPS, Cards, NetBanking), built with **React Three Fiber**, **Three.js**, **GSAP**, **Framer Motion**, **FastAPI**, and **LangGraph Multi-Agent Swarms**.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://frontend-ten-kohl-45.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/anvitha2011/aegis-pay-ai)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)](https://react.dev)
+[![Three.js](https://img.shields.io/badge/Three.js-R3F-black?style=flat-square&logo=three.js)](https://docs.pmnd.rs/react-three-fiber)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
+
+> 🌐 **Live Production Deployment**: [https://frontend-ten-kohl-45.vercel.app](https://frontend-ten-kohl-45.vercel.app)
 
 ---
 
